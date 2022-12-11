@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armishra
 - 👀 I’m interested in fitness, finance, and technology
-- 🌱 I’m currently learning about growth mindset and written communication
+- 🌱 I’m currently learning about Rust
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/archit72/)
 
 <!---
